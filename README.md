@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi!👋</h1>
+<h1 align="center">Hey, na!👋</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">Ich bin Robin!<br><br>🔭 Fachinformatiker für Anwendungsentwicklung<br>📚 Java, Spring und Unity<br>⚡ Momentan lerne ich React und arbeite an einem Zeitstempel-System</p>
+<p align="center">Ich bin Robin!<br>Ich programmiere seit dem ich 10 Jahre alt bin :)<br>Damals Minecraft, heute alles!<br><br>🔭 Fachinformatiker für Anwendungsentwicklung<br>📚 Java, Spring und Unity<br>⚡ Momentan lerne ich React und arbeite an einem Zeitstempel-System</p>
 
 ###
 
