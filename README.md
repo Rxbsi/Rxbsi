@@ -6,7 +6,9 @@
 
 <h1 align="center">Hey, na!👋</h1>
 
+
 ###
+
 
 <h3 align="center">👩‍💻  Das bin ich  👩‍💻</h3>
 
@@ -27,12 +29,12 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+<br><br>
 
 ###
+
 
 <h3 align="center">🛠 Tech-Stack 🛠</h3>
-
-###
 
 <br clear="both">
 
@@ -46,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
+  <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
@@ -57,12 +59,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
+<br><br>
 
 ###
+
 
 <h3 align="center">🔥   Meine Stats 🔥</h3>
-
-###
 
 <br clear="both">
 
