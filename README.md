@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">Ich bin Robin!<br>Ich programmiere seit dem ich 10 Jahre alt bin :)<br>Damals Minecraft, heute alles!<br><br>🔭 Fachinformatiker für Anwendungsentwicklung<br>📚 Java, Spring und React<br>⚡ Momentan lerne ich React und arbeite an einem Admin Tool und kleinen Streaming Dienst</p>
+<p align="center">Ich bin Robin!<br>Ich programmiere seit dem ich 10 Jahre alt bin :)<br>Damals Minecraft, heute alles!<br><br>🔭 Fachinformatiker für Anwendungsentwicklung<br>📚 Java, Spring und React<br>⚡ Momentan lerne ich React und arbeite an einem kleinen Video Streaming Dienst</p>
 
 ###
 
